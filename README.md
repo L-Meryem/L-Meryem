@@ -23,7 +23,7 @@
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-dcbfff?style=for-the-badge&logo=none&labelColor=dcbfff&color=dcbfff)](https://your-portfolio.com)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aee1f9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=aee1f9)](https://linkedin.com/in/lmeryem)
-[![Twitter](https://img.shields.io/badge/Twitter-ffe4e1?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=ffe4e1)](https://twitter.com/@_LMeryem)
+<!--[![Twitter](https://img.shields.io/badge/Twitter-ffe4e1?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=ffe4e1)](https://twitter.com/@_LMeryem)-->
 
 </div>
 
