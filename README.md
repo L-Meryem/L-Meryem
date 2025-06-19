@@ -1,6 +1,6 @@
 ## Hi there! I'm Meryem
-<span> I'm software engineer, I build websites for clients in the portland, ME area. </span>
-
+<p> I'm software engineer, I build websites for clients in the portland, ME area. <a href="https://linkedin.com/in/lmeryem"  target="_blank">Let's connect!</a> </p>
+<br>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -18,12 +18,11 @@
 </div>
 
 
-### Let's Connect!
+<!--
 <div align="left">
-
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-dcbfff?style=for-the-badge&logo=none&labelColor=dcbfff&color=dcbfff)](https://your-portfolio.com)-->
+[![Portfolio](https://img.shields.io/badge/Portfolio-dcbfff?style=for-the-badge&logo=none&labelColor=dcbfff&color=dcbfff)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aee1f9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=aee1f9)](https://linkedin.com/in/lmeryem)
-<!--[![Twitter](https://img.shields.io/badge/Twitter-ffe4e1?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=ffe4e1)](https://twitter.com/@_LMeryem)-->
-
+[![Twitter](https://img.shields.io/badge/Twitter-ffe4e1?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=ffe4e1)](https://twitter.com/@_LMeryem)
 </div>
+-->
 
