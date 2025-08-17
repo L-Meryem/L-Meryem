@@ -2,10 +2,11 @@
 <p>I'm a software engineer with a degree in software and network Engineering.</p>
 <p>In Morocco, I was a one-woman IT department for a company of more than sixty accountants. I learned, taught, troubleshooted and automated their work. In Maine, I was able to explore my creative side in ways I wasn’t able to do before. I enjoy creating accessible and community focused web applications with a spark of my artistic touch.</p> 
 
-<p>Today I’m part of the resilient coders program, sharpening my skills and building websites for clients in the Portland, ME area. <a href="https://linkedin.com/in/lmeryem"  target="_blank">Let's connect!</a></p>
+<p>Today I’m part of the resilient coders program, sharpening my skills and building websites for clients in the Portland, ME area. <a href="https://linkedin.com/in/lmeryem"  target="_blank">Let's connect!</a>
 
 <br>
-<div align="left">
+<br>
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -16,7 +17,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </br>
 </br>
-  <img src="https://img.shields.io/badge/MCSA-Web%20Applications-0078D4?style=for-the-badge&labelColor=282C34&color=0078D4" />
+  <img src="https://img.shields.io/badge/MCSA-Web%20Applications-0078D4?style=for-the-badge&labelColor=282C34&color=0078D4"/>
 </div>
 
 </div>
