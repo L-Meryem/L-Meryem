@@ -2,7 +2,7 @@
 <p>I'm a software engineer with a degree in software and network Engineering.</p>
 <p>In Morocco, I was a one-woman IT department for a company of more than sixty accountants. I learned, taught, troubleshooted and automated their work. In Maine, I was able to explore my creative side in ways I wasn’t able to do before. I enjoy creating accessible and community focused web applications with a spark of my artistic touch.</p> 
 
-<p>Today I’m part of the resilient coders program, sharpening my skills and building websites for clients in the Portland, ME area. <a href="https://linkedin.com/in/lmeryem"  target="_blank">Let's connect!</a>
+<p>Today I’m part of the resilient coders program, sharpening my skills and building websites for clients in the Portland, ME area. <a href="https://l-meryem.github.io/"  target="_blank">Let's connect!</a>
 
 <br>
 <br>
