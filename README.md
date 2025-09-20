@@ -1,5 +1,5 @@
 ## Hi there! I'm <a href="https://l-meryem.github.io/"  target="_blank">Meryem</a>
-<p>I'm a full-stack developer with a degree in software and network Engineering.</p>
+<p>I'm a full-stack developer with a B.S. in software and network Engineering.</p>
 <p>In Morocco, I was a one-woman IT department for a company of more than 60 accountants. I learned, taught, troubleshooted and automated their work. In Maine, I was able to explore my creative side in ways I wasn’t able to do before. I enjoy making accessible and community focused web applications with a spark of my artistic touch.</p> 
 
 <p>Today I’m part of the resilient coders program, sharpening my skills and building websites for clients in the Portland, ME area.</p>
