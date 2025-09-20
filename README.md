@@ -4,8 +4,8 @@
 
 <p>Today I’m part of the resilient coders program, sharpening my skills and building websites for clients in the Portland, ME area.</p>
 
-<br>
-<br>
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
