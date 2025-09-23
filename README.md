@@ -4,7 +4,14 @@
 
 <p>Today I’m part of the resilient coders program, sharpening my skills and building websites for clients in the Portland, ME area.</p>
 
+
 ---
+
+<div align="center">
+  
+  ![Codewars badges](https://www.codewars.com/users/L-Meryem/badges/small)
+  
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
