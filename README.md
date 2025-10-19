@@ -1,12 +1,9 @@
 ## Hi there! I'm <a href="https://l-meryem.github.io/"  target="_blank">Meryem</a>
 <p>I’ve been fascinated by computers since childhood, growing up in a small Moroccan town where technology opened up new worlds for me. That passion led me to earn a Bachelor’s in Software and Network Engineering and take on the role of a one-woman IT department, building tools in C# to automate the work of accountants. Recently, I combined my love for software with gaming, developing an open-source platform for tabletop RPG players to connect and share experiences. Focused on accessibility and people-centered solutions, I’m ready to take your next project from idea to impact.</p>
 
-</br>
+
 <div align="center">
 <a href="https://www.codewars.com/users/L-Meryem">
-  
-  ![Codewars badges](https://www.codewars.com/users/L-Meryem/badges/small)
-  
   </a>  
 </div>
 
@@ -21,6 +18,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/MCSA-Web%20Applications-0078D4?style=for-the-badge&labelColor=282C34&color=0078D4"/>
 </br>
+  
+   ![Codewars badges](https://www.codewars.com/users/L-Meryem/badges/micro)
 
 
 <!--
