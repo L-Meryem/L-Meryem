@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/MCSA-Web%20Applications-0078D4?style=for-the-badge&labelColor=282C34&color=0078D4"/>
 </br>
   
-   <a href="https://www.codewars.com/users/L-Meryem">![Codewars badges](https://www.codewars.com/users/L-Meryem/badges/micro)</a>
+   <a href="https://www.codewars.com/users/L-Meryem" target="_blank">![Codewars badges](https://www.codewars.com/users/L-Meryem/badges/micro)</a>
 
 
 <!--
